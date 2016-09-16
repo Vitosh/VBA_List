@@ -9,3 +9,9 @@ The following is added/changed:
  - I changed the code, so it always has the declaration of the variables in top;
  - Added a sample TestSample, printing what it needs to;
  - Changed the name of the class to "cls_vbaList"
+
+Note:
+If you want the list to work:
+1. Create *cls_vbaList*
+2. Run TestClassVbaList
+3. ::cactus::
