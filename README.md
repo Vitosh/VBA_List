@@ -11,7 +11,7 @@ The following is added/changed:
  - Changed the name of the class to "cls_vbaList"
 
 Note:
-To make the list:
+*To make the list*:
 
 1. Create *cls_vbaList*
 
