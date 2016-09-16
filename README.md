@@ -11,7 +11,10 @@ The following is added/changed:
  - Changed the name of the class to "cls_vbaList"
 
 Note:
-If you want the list to work:
+To make the list:
+
 1. Create *cls_vbaList*
+
 2. Run TestClassVbaList
-3. ::cactus::
+
+3. :)
