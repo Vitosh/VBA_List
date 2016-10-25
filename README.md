@@ -16,3 +16,6 @@ To make the list:
 1. Create *cls_vbaList*
 2. Run TestClassVbaList
 3. :)
+
+Edit:
+Contains calls Exists, thus pretty much they are the same.
